@@ -1,0 +1,36 @@
+pattern,canonical_merchant,default_category
+SWIGGY INSTAMART,Swiggy Instamart,Groceries
+INSTAMART,Swiggy Instamart,Groceries
+SWIGGY,Swiggy,Food
+ZOMATO,Zomato,Food
+EATSURE,EatSure,Food
+FAASOS,EatSure,Food
+BEHROUZ,EatSure,Food
+OVENSTORY,EatSure,Food
+DOMINOS,Dominos,Food
+MCDONALD,McDonalds,Food
+KFC,KFC,Food
+STARBUCKS,Starbucks,Food
+CHAIPOINT,Chai Point,Food
+UBER,Uber,Transit
+OLA,Ola,Transit
+RAPIDO,Rapido,Transit
+BLABLACAR,BlaBlaCar,Transit
+NAMMA YATRI,Namma Yatri,Transit
+NAMMAYATRI,Namma Yatri,Transit
+IRCTC,IRCTC,Transit
+BMTC,BMTC,Transit
+BMRCL,Namma Metro,Transit
+BLINKIT,Blinkit,Groceries
+ZEPTO,Zepto,Groceries
+BIGBASKET,BigBasket,Groceries
+DUNZO,Dunzo,Groceries
+LICIOUS,Licious,Groceries
+AMAZON,Amazon,Shopping
+FLIPKART,Flipkart,Shopping
+MYNTRA,Myntra,Shopping
+NETFLIX,Netflix,Entertainment
+SPOTIFY,Spotify,Entertainment
+BOOKMYSHOW,BookMyShow,Entertainment
+PHARMEASY,PharmEasy,Health
+APOLLO PHARMACY,Apollo Pharmacy,Health
