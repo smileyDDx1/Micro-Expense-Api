@@ -1,3 +1,4 @@
+HEAD
 # Personal Finance & Micro-Expense API
 
 A single-service API that turns messy, item-level spending from food-delivery and
@@ -190,3 +191,7 @@ curl "localhost:8000/analytics/summary?from=2026-01-01&to=2026-01-31"
 3. Budgets + per-category threshold alerts.
 4. Auth + multi-user.
 5. A small dashboard UI over the analytics endpoints.
+
+# Micro-Expense-Api
+The Microfinance API is an enterprise-grade backend service designed to manage the complete loan lifecycle for microfinance institutions. It provides secure, RESTful endpoints for client onboarding, eKYC verification, loan origination, and automated repayment tracking.
+
